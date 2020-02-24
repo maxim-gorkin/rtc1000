@@ -1,5 +1,4 @@
 # rtc1000
-rtc1000 auto reports
 
 This is an easy way to generate reports and email them for Icon Time RTC1000 Universal Employee Time Clock.
 
